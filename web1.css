@@ -1,0 +1,91 @@
+.navigation{
+    background-color: #000000;
+}
+.logo{
+    background-color: black;
+    position: absolute;
+width: 223px;
+height: 35px;
+left: 36px;
+top: 12px;
+
+}
+
+.logoimg{
+    position: absolute;
+    width: 202px;
+    height: 199px;
+    left: -743px;
+    top: 20px;
+}
+
+.img1{
+    position: absolute;
+    left: 2231px;
+    top: 396px;
+}
+
+.login{
+    color: #FFAD00;
+    font-size: 25px;
+}
+
+.box{
+    box-sizing: border-box;
+/* 
+position: absolute;
+width: 123px;
+height: 51px;
+left: 925px;
+top: 48px; */
+
+padding-left:5px ;
+padding-right:5px ;
+padding-top:5px ;
+padding-bottom:5px ;
+
+background: #000000;
+border: 3px solid #FFAD00;
+border-radius: 64px;
+margin: 4px;
+}
+.bg{
+    height: 20rem;
+    background-color: #000000;
+}
+
+.bg{
+    padding-top: 75px;
+    padding-left: 25px;
+    color: white;
+        font-family: montserrat-black;
+        font-size: 6rem;
+        line-height: 1.5;
+    
+}
+
+.logopic{
+position: absolute;
+width: 327px;
+height: 248px;
+left: 2018px;
+top: 70px;
+}
+
+.foot{
+    height: 12vh;
+    background-color: black; 
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+.all-text-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+     background-color: #262626;
+    min-height: calc(100vh - 58px - 12vh);
+    max-width: 2602px;
+}
